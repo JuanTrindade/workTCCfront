@@ -10,7 +10,7 @@ Workapp is a service provider application aimed at more agile and practical comm
 ```npm
   npm install
 ```
-  inside of src file
+  inside of src file to install the dependencies of aplication
 
 
 - After this you need to run 
