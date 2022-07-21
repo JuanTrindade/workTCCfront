@@ -6,9 +6,18 @@ Workapp is a service provider application aimed at more agile and practical comm
 
 
 ## Instalation  
-- First of all you need to install NodeJS in your computer, after that you need to run ```npm install``` inside of src file
+- First of all you need to install NodeJS in your computer, after that you need to run  
+```npm
+  npm install
+```
+  inside of src file
 
-- After this you need to run ```npm start``` to start the aplication in localhost
+
+- After this you need to run 
+```npm
+npm start
+```
+  to start the aplication in localhost
 
 ## Authors
 - Juan Trindade
